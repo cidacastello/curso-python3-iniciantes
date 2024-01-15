@@ -10,7 +10,7 @@ _**Programar é a arte de pensar para escrever códigos**_
 
 Aqui você encontra lista dos exercícios utilizados em aula, os links citados nos vídeos e o código fonte dos nossos programas desenvolvidos durante o curso.
 
-Dá uma **força** :muscle: aqui pro repositório e clica na *star* :star:, aqui do GitHub:point_up: :wink:
+Dá uma **força** :muscle: aqui pro repositório e clica na *star* :star:, aqui do **GitHub** :point_up: :wink:
 
 Inscreva-se no canal [Cida Castello](https://www.youtube.com/c/CidaCastello) do YouTube, ative o sininho :bell:, assim o Youtube te avisa sempre que um vídeo novo for publicado e assista as aulas até o final:+1:
 
@@ -31,15 +31,15 @@ https://youtube.com/playlist?list=PLLaQioUGFzGOOcg_0-eGV84LOtlR1lfXN&si=Eb7oNVUQ
 
 ##### Público Alvo
 
-O curso de Python 3 foi pensado em você que deseja iniciar em programação com Python e tem pouco ou nenhum conhecimento em programação, e, em você que já conhece outras linguagens de programação e quer aprender a programar em Python.
+O **Curso de Python 3 para Iniciantes** foi pensado em você que deseja iniciar em programação com **Python** e tem pouco ou nenhum conhecimento em programação, e, em você que já conhece outras linguagens de programação e quer aprender a programar em **Python**.
 
-Para um melhor aprendizado vamos abordar Lógica de Programação usando o Python, afinal a lógica de programação é o pilar fundamental para você se tornar um programador ou programadora.
+Para um melhor aprendizado vamos abordar Lógica de Programação usando o **Python**, afinal a lógica de programação é o pilar fundamental para você se tornar um programador ou programadora.
 
-Python é uma linguagem de programação simples, popular, versátil e de fácil aprendizado.
+**Python** é uma linguagem de programação simples, popular, versátil e de fácil aprendizado.
 
-Python está sendo muito utilizada, hoje em dia (2024), em Inteligência Artificial (AI), Aprendizado de Máquina (Machine Learning), Ciência de Dados (Data Science), Automação, dentre outras áreas do conhecimento.
+**Python** está sendo muito utilizada, hoje em dia (2024), em Inteligência Artificial (AI), Aprendizado de Máquina (Machine Learning), Ciência de Dados (Data Science), Automação, dentre outras áreas do conhecimento.
 
-🚀 O Curso de Python 3 para Iniciantes aborda os principais conceitos para você iniciar na programação em Python 3 com lógica de programação.
+🚀 O **Curso de Python 3 para Iniciantes** aborda os principais conceitos para você iniciar na programação em **Python 3** com lógica de programação.
 
 As aulas têm explicações passo a passo com exercícios resolvidos e desafios com respostas✅
 
@@ -89,7 +89,6 @@ Zen of Python: https://peps.python.org/pep-0020/
 
 Zen of Python traduzido para o português: https://pt.wikipedia.org/wiki/Zen_de_Python
 
-***
 
 ##### Links Ferramentas / Softwares
 

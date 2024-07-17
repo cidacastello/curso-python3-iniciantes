@@ -1,0 +1,11 @@
+# help(print)
+print(15, 7, 2024, sep='/', end=" ")
+print(15, 7, 2024, sep='/')
+print(15, 7, 2024, sep='-')
+print(15, 7, 2024, sep='-', end="\n")
+print('Curso', 'de', 'Python 3')
+print('Curso', 'de', 'Python 3', sep='*')
+print('Curso', 'de', 'Python 3', sep='   ')
+print('Curso', 'de', 'Python 3', end='! ')
+print('Curso', 'de', 'Python 3', end='!\n')
+
